@@ -1,5 +1,5 @@
 # Albion Online WASD Tool
-This unoficcial tool will allow you to use AWSD to navigate in albion online.
+This unofficial tool will allow you to use AWSD to navigate in albion online.
 
 # How does it work?
 This tool will take control of your mouse why the WASD keys are being pressed, so it's best used when you are riding mounts or gathering and do not need to activly use your mouse. 
